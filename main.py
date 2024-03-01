@@ -1,6 +1,6 @@
 first_name = "jetson"
 last_name = "cyrus"
-mine = "I love Jesus"
+mine = "Surprise"
 age = 19
 height = 169.5
 print("Hai ", first_name)
